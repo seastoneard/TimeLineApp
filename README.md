@@ -97,9 +97,6 @@
 }
 </span></pre><span style="font-size:18px"><br>
 </span>
-<p><span style="font-size:18px"><a target="_blank" target="_blank" href="https://github.com/seastoneard/TimeLineApp">其他的代码见源码.....</a></span></p>
-<p><br>
-</p>
    
 </div>
 
